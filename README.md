@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shirisha Chidruppa
 
-Senior Java Full Stack Developer with 8+ years of experience designing, developing, and supporting enterprise-scale applications across Banking, Financial Services, and Healthcare domains. Strong expertise in building scalable backend systems, full-stack web applications, and cloud-ready microservices.
+Senior Software Developer with 8+ years of experience designing, developing, and supporting enterprise-scale applications across Banking, Financial Services, and Healthcare domains. Strong expertise in building scalable backend systems, full-stack web applications, and cloud-ready microservices.
 
 ---
 
@@ -10,7 +10,7 @@ Senior Java Full Stack Developer with 8+ years of experience designing, developi
 - React, Angular, JavaScript, HTML5, CSS3, Bootstrap
 
 ### Backend
-- Java, Java 8+ (Streams, Lambdas, Multithreading)
+- Java(Streams, Lambdas, Multithreading)
 - Spring Boot, Spring MVC, Spring Security
 - Microservices Architecture, RESTful APIs
 
